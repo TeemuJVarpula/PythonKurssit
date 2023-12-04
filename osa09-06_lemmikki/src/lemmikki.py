@@ -13,5 +13,17 @@ class Henkilo:
         self.lemmikki = lemmikki
 
     def __str__(self):
-        return self.nimi
+        elukka=f"{self.lemmikki}".split()
+        elukka[1]=elukka[1].replace('(', '')
+        elukka[-1]=elukka[-1].replace(')', '')
+        rotu=f"{elukka[1]} {elukka[-1]}"
+        
+        return f"{self.nimi}, kaverina {elukka[0]}, joka on {rotu}"
+        # return f"{self.nimi}, kaverina {self.lemmikki.nimi}, joka on {self.lemmikki.kuvaus}"
 
+if __name__ == "__main__":
+
+    hulda = Lemmikki("Hulda", "sekarotuinen koira")
+    leevi = Henkilo("Leevi", hulda)
+
+    print(leevi)
