@@ -927,3 +927,79 @@ checksum = "27c10a36e6afdae67e369d87b615c74c"
 [exercises.osa10-12_opintorekisteri]
 id = 193118
 checksum = "339ec797988965d946537f6b2eb7db38"
+
+[exercises.osa11-01_neliojuuret]
+id = 193097
+checksum = "d9d13f455770d03f5de311936172d38e"
+
+[exercises.osa11-02_tahtirivit]
+id = 193101
+checksum = "2bb086cd87dc99260da3598671363483"
+
+[exercises.osa11-03_paras_koetulos]
+id = 193096
+checksum = "c365de9ece8a4c7ead13d7274c62dbfb"
+
+[exercises.osa11-04_pituudet]
+id = 193103
+checksum = "8f35d82606cecfb7c9370bd053a874b1"
+
+[exercises.osa11-05_poista_pienemmat]
+id = 193102
+checksum = "6f2035288aabe537fa5fa232eaf3fd3e"
+
+[exercises.osa11-06_vokaalilla_alkavat]
+id = 193104
+checksum = "24408aa7113715750eded08b9430d6ef"
+
+[exercises.osa11-07_lottorivi]
+id = 193094
+checksum = "825a255b0b347954423a656efa99fc4b"
+
+[exercises.osa11-08_suodata_kielletyt]
+id = 193107
+checksum = "4c89958f793f510cd6aacde9fb25fbfb"
+
+[exercises.osa11-09_kauppalistan_tuotteet]
+id = 193098
+checksum = "0e64fd6fab74456f3140139692aff96d"
+
+[exercises.osa11-10_halvempien_hintaero]
+id = 193095
+checksum = "47bcd28a68f53509aa945898f37a55cd"
+
+[exercises.osa11-11_merkkijonojen_pituudet]
+id = 193090
+checksum = "88f53ace91575507de91941f7a41d7b5"
+
+[exercises.osa11-12_yleisimmat_sanat]
+id = 193105
+checksum = "1b5f7765b2131d7a8d027c95f9de38a1"
+
+[exercises.osa11-13_listaan_lukuja]
+id = 193100
+checksum = "ed0c58a4cafffbdd72d9846d176e154a"
+
+[exercises.osa11-14_rekursiivinen_summa]
+id = 193091
+checksum = "90534b1fa3b9dd661684d506077bf3b8"
+
+[exercises.osa11-15_sulut_tasapainossa]
+id = 193093
+checksum = "4ffbfc3789904564113ad17e0b131b7c"
+
+[exercises.osa11-16_suurin_alkio]
+id = 193092
+checksum = "f7634c64c9408df4fea7a6b7edfcbc0a"
+
+[exercises.osa11-17_pomot_ja_alaiset]
+id = 193099
+checksum = "75930dd5cf74d8068dbef47f949e3de1"
+
+[exercises.osa11-18_tilauskirja]
+id = 193106
+checksum = "5b02291bc5ecbb990b7269b627e410ac"
+
+[exercises.osa11-19_tilauskirjasovellus]
+id = 193089
+checksum = "07c7c4ac25b11042bc62f0d3597db4c7"
